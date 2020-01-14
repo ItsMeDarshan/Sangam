@@ -1,1 +1,15 @@
-hello
+14/1/20
+The RPI is booted with Ubuntu 18.04 mate, which makes the open cv installation easier(as in normal ubuntu)
+note: Ubutu mate was suggested by the NIT Nagpur team (Mayuresh- NIT Nagpur) met at IIT M shastra swarm robotics event; 
+steps followed:
+1. "sudo apt-get install python3"
+2.sudo apt-get install python3-opencv
+note: some errors 
+upgraded the system and then everything worked fine 3."sudo apt-get upgrade"
+then update the system by 4."sudo apt-get update"
+again give command 2, it worked..
+
+for matplotlib 5."sudo apt-get install python3-matplotlib"
+
+for installing pip 6. "sudo apt install python3-pip"
+
