@@ -13,3 +13,14 @@ for matplotlib 5."sudo apt-get install python3-matplotlib"
 
 for installing pip 6. "sudo apt install python3-pip"
 
+For accessing picam, refer to the link given below
+Don't follow picamera installation process given in the bottom link,
+for installing picamera in your system:
+sudo pip install picamera
+sudo apt-get update
+
+
+https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+
+
+
